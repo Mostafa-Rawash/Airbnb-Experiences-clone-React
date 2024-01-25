@@ -16,7 +16,6 @@ function App() {
     <container className="full-body">
       <Header /> 
       <MainContent />
-      <Footer />
     </container>
   );
 } 
