@@ -1,4 +1,4 @@
-# This is first project from Bob Ziroll React couse on Scrimba 
+# Airbnb Experiences clone This is first project from Bob Ziroll React couse on Scrimba 
 ### [Scrimba Course](https://scrimba.com/learn/learnreact)
 
 
